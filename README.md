@@ -7,6 +7,13 @@
 ・URL http://18.181.155.100/  
 ・ID: admin  
 ・Pass: 2222  
+#言語、ライブラリー
+・Haml
+・Sass
+・Javascript
+・jQuery
+・Ruby
+・RAILS
 ### テスト用アカウント  
 ■購入者用  
 ・メールアドレス: buyer_user@gmail.com  
